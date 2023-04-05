@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Server\\E-commerce-SQLI-Blazor.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Client\\E-commerce-SQLI-Blazor.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Client\\E-commerce-SQLI-Blazor.Client.csproj",
+        "projectName": "E-commerce-SQLI-Blazor.Client",
+        "projectPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Client\\E-commerce-SQLI-Blazor.Client.csproj",
+        "packagesPath": "C:\\Users\\aelhaoussi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aelhaoussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\E-commerce-SQLI-Blazor.Shared.csproj": {
+                "projectPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\E-commerce-SQLI-Blazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Server\\E-commerce-SQLI-Blazor.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Server\\E-commerce-SQLI-Blazor.Server.csproj",
+        "projectName": "E-commerce-SQLI-Blazor.Server",
+        "projectPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Server\\E-commerce-SQLI-Blazor.Server.csproj",
+        "packagesPath": "C:\\Users\\aelhaoussi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aelhaoussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Client\\E-commerce-SQLI-Blazor.Client.csproj": {
+                "projectPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Client\\E-commerce-SQLI-Blazor.Client.csproj"
+              },
+              "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\E-commerce-SQLI-Blazor.Shared.csproj": {
+                "projectPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\E-commerce-SQLI-Blazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\E-commerce-SQLI-Blazor.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\E-commerce-SQLI-Blazor.Shared.csproj",
+        "projectName": "E-commerce-SQLI-Blazor.Shared",
+        "projectPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\E-commerce-SQLI-Blazor.Shared.csproj",
+        "packagesPath": "C:\\Users\\aelhaoussi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aelhaoussi\\Desktop\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\E-commerce-SQLI-Blazor\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aelhaoussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
